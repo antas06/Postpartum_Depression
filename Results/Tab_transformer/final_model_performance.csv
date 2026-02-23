@@ -1,0 +1,4 @@
+Model Architecture,Accuracy,Precision,Recall,F1-Score
+Random Forest (Baseline),0.9415,0.9482,0.956,0.9521
+Standard ANN,0.9488,0.951,0.9592,0.9551
+TabTransformer (Proposed),0.9764,0.9781,0.9845,0.9813
